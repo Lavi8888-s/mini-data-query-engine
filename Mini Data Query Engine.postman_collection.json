@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "996aaa03-0814-4727-af6f-33f9fadbba7e",
+		"name": "Mini Data Query Engine",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43555344"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
